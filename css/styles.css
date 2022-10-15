@@ -2,8 +2,19 @@ body{background-color: whitesmoke;}
 
 hr {border-style: none; border-top-style: dotted; width: 5%; color: grey; border-width: 7px}
 
-img {height: 150px;}
+img {height: 150px; background-color: transparent; border-radius: 100px}
 
-h1 {color: #2F4F4F;}
+h1 {color: DarkGray; font-family: Sans-serif;}
 
-h3 {color: #2F4F4F;}
+h3 {color: #2F4F4F; font-family: Sans-serif;}
+
+td {font-family: Sans-serif;}
+
+h5 {color:Darkgray; font-family: Sans-serif;}
+
+p {color:DarkSlategray; font-family: Sans-serif;}
+
+th {color:DarkSlategray; font-family: Sans-serif;}
+.sk:hover {background-color: black;}
+.sk {background-color: black; width: 15%; height: 80px;}
+.tag:hover {background-color: gold; border-radius: 100px;}
