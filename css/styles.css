@@ -1,20 +1,26 @@
 body{background-color: whitesmoke;}
 
-hr {border-style: none; border-top-style: dotted; width: 5%; color: grey; border-width: 7px}
+hr {border-style: none; border-top-style: dotted; width: 5%; color: grey; border-width: 10px;
+}
 
-img {height: 150px; background-color: transparent; border-radius: 100px}
+img {height: 150px; background-color: transparent; border-radius: 45%; width: 115%;}
 
 h1 {color: DarkGray; font-family: Sans-serif;}
 
-h3 {color: #2F4F4F; font-family: Sans-serif;}
+h3 {color: #2F4F4F; font-family: cursive;}
 
-td {font-family: Sans-serif;}
+td {font-family: Sans-serif;
+    color:Gray;
+  }
 
 h5 {color:Darkgray; font-family: Sans-serif;}
 
 p {color:DarkSlategray; font-family: Sans-serif;}
 
 th {color:DarkSlategray; font-family: Sans-serif;}
+
+.ts {border-spacing: 10px; font-family: cursive;}
 .sk:hover {background-color: black;}
 .sk {background-color: black; width: 15%; height: 80px;}
-.tag:hover {background-color: gold; border-radius: 100px;}
+.tag:hover {background-color: Gray; border-radius: 100px; font-family: cursive;}
+.tag {font-family: cursive;}
